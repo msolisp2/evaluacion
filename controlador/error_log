@@ -1,0 +1,5 @@
+[10-Apr-2016 23:48:41 America/Bogota] PHP Strict Standards:  Only variables should be passed by reference in /home/ieocarta/public_html/evaluacion/modelo/clase_usuario.php on line 121
+[11-Apr-2016 15:28:46 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ieocarta/public_html/evaluacion/modelo/conexion.php:1) in /home/ieocarta/public_html/evaluacion/controlador/contro_verificar_datos.php on line 15
+[11-Apr-2016 15:28:46 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ieocarta/public_html/evaluacion/modelo/conexion.php:1) in /home/ieocarta/public_html/evaluacion/controlador/contro_verificar_cargo.php on line 16
+[25-May-2016 11:48:22 America/Bogota] PHP Strict Standards:  Only variables should be passed by reference in /home/ieocarta/public_html/evaluacion/modelo/clase_usuario.php on line 121
+[25-May-2016 11:49:05 America/Bogota] PHP Strict Standards:  Only variables should be passed by reference in /home/ieocarta/public_html/evaluacion/modelo/clase_usuario.php on line 121
